@@ -1,0 +1,36 @@
+{
+  "metaData": {},
+  "context": {},
+
+  "settings": {
+    "schema": {
+      "properties": {
+        "title": {
+          "title": "Title",
+          "description": "Description, lorem ipsum lorem ..",
+          "help": "Hint: Text next to a field to guide the end user filling it",
+          "placeholder": "Placeholder ..",
+          "type": "string",
+          "default": "Hello React"
+        }
+      }
+    }
+  },
+
+  "styles": {
+    "service": "codeless",
+    "options": {
+      "type": "eds",
+      "format": "json"
+    }
+  },
+
+  "i18n": {
+    "labels": {
+      "example-label-key": "Primary color"
+    }
+  },
+
+  "tokens": {},
+  "services": {}
+}

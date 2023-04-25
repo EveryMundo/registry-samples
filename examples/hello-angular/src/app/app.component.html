@@ -1,0 +1,8 @@
+<div class="container" role="main">
+  <h1>{{ title }}</h1>
+  <textarea class="payload">{{ payload | json }}</textarea>
+  <div class="color">
+    <i [style.background-color]="color"></i>
+    <span>{{ label }}</span>
+  </div>
+</div>
