@@ -9,7 +9,7 @@
     "lint": "vue-cli-service lint"
   },
   "dependencies": {
-    "@everymundo/registry-script": "^0.0.8",
+    "@everymundo/registry-script": "^0.1.0",
     "core-js": "^3.6.5",
     "vue": "^3.0.0"
   },
