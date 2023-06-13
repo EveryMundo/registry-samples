@@ -1,5 +1,5 @@
 import { Component } from '@angular/core';
-import { getConfig } from '@everymundo/registry-script';
+import { getPayload } from '@everymundo/registry-script';
 
 declare global {
   interface Window {
@@ -13,7 +13,7 @@ declare global {
   styleUrls: ['./app.component.css'],
 })
 export class AppComponent {
-  payload = getConfig();
+  payload = getPayload();
   title = '';
   color = '';
   label = '';
