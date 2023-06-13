@@ -8,7 +8,7 @@
     "dev": "webpack serve --mode development"
   },
   "dependencies": {
-    "@everymundo/registry-script": "^0.0.8"
+    "@everymundo/registry-script": "^0.1.0"
   },
   "devDependencies": {
     "@babel/core": "^7.17.6",
