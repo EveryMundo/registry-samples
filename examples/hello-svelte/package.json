@@ -18,6 +18,6 @@
     "dev": "webpack serve --content-base public"
   },
   "dependencies": {
-    "@everymundo/registry-script": "^0.0.8"
+    "@everymundo/registry-script": "^0.1.0"
   }
 }
